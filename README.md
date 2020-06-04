@@ -5,7 +5,7 @@ A script meant to be used with xfce4 Timer which triggers an alarm sound and a n
 
 - `git clone https://github.com/jurassic-c/xfce4-pomodoro-alarm.git`
 - `cd /path/to/xfce4-pomodoro-alarm`
-- `./install.sh
+- `./install.sh`
 
 ## Usage
 
